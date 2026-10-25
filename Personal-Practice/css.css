@@ -1,0 +1,25 @@
+body {
+  background-color: aquamarine;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: blueviolet;
+}
+a:hover {
+  color: #f11197;
+  cursor: pointer;
+  text-decoration: underline;
+}
+img {
+  height: 300px;
+  width: 400px;
+  border: 3px solid red;
+  border-radius: 12px;
+}
+.second {
+  background-color: #f11197;
+}
+ul {
+  list-style-type: none;
+}
