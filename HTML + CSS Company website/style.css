@@ -1,0 +1,149 @@
+body {
+  background-color: white;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.container {
+  background-color: #f9f6f0;
+  max-width: 1100px;
+  width: 90%;
+  margin: 40px auto;
+  border: 1px solid #dcd6cd;
+  padding: 0;
+  box-sizing: border-box;
+  padding-bottom: 150px;
+}
+header,
+.main1 {
+  border: 1px solid #dcd6cd;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+header {
+  display: flex;
+  background-color: #e4dfd5;
+  height: 65px;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+  list-style: none;
+  gap: 40px;
+  padding-right: 40px;
+}
+header > img {
+  width: 160px;
+}
+.main1 {
+  background-color: #bcb3a3;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  text-align: center;
+}
+.main1 img {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  object-fit: cover;
+}
+.main1 p {
+  max-width: 700px;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.container2 {
+  background-color: #f8efef;
+  max-width: 1100px;
+  width: 90%;
+  margin: 40px auto;
+  border: 1px solid #ecd8ba;
+  box-sizing: border-box;
+  padding-bottom: 150px;
+}
+
+.header2 {
+  margin-right: 0;
+  margin-left: 0;
+}
+.main2 {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.image2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image2 img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.mygride {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+}
+.product {
+  border: 1px solid #d1cbc0;
+  padding: 15px;
+  background-color: #f5dfdf;
+  max-width: 500px;
+  width: 90%;
+  text-align: left;
+}
+.product figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+.product figure img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.container3 {
+  border: 1px solid #dcd6cd;
+  max-width: 1300px;
+  width: 95%;
+  margin: 40px auto;
+  padding: 0;
+  background-color: #f9f6f0;
+  box-sizing: border-box;
+  padding-bottom: 150px;
+}
+.main3 {
+  border: 1px solid #dcd6cd;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-right: 25px;
+  padding-left: 25px;
+  background-color: rgb(223 199 168);
+}
+.main3 > h1 {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.contactinformation {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+.contactinformation > img {
+  max-width: 100%;
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  padding-bottom: 70px;
+}
+
