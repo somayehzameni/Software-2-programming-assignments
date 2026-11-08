@@ -18,3 +18,21 @@ Completed assignments:
 - Task 8: 3 p
 - Task 9: 2 p
   **Total 22p**
+
+### JS module 3
+
+[My link to js mod 1 folder at users.metropolia.fi](https://users.metropolia.fi/~somayehz/Modules3)
+
+Completed assignments:
+
+- Task 1: 2 p
+- Task 2: 2 p
+- Task 3: 2 p
+- Task 4: 2 p
+- Task 5: 2 p
+- Task 6: 2 p
+- Task 7: 2 p
+- Task 8: 2 p
+- Task 9: 3 p
+- Task 10: 8 p
+  **Total 27p**

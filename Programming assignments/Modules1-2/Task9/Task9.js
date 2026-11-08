@@ -1,4 +1,4 @@
-"use stric"
+"use stric";
 
 //Tehtävä9:
 let number2 = +prompt("Enter the number: ");
