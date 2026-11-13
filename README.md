@@ -21,7 +21,7 @@ Completed assignments:
 
 ### JS module 3
 
-[My link to js mod 1 folder at users.metropolia.fi](https://users.metropolia.fi/~somayehz/Modules3)
+[My link to js mod 3 folder at users.metropolia.fi](https://users.metropolia.fi/~somayehz/Modules3)
 
 Completed assignments:
 
@@ -36,3 +36,22 @@ Completed assignments:
 - Task 9: 3 p
 - Task 10: 8 p
   **Total 27p**
+
+### JS module 4
+
+[My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~somayehz/Module4)
+
+Completed assignments:
+
+- Task 1: 2 p
+- Task 2: 2 p
+- Task 3: 2 p
+- Task 4: 2 p
+- Task 5: 5 p
+- Task 6: 1 p
+- Task 7: 2 p
+- Task 8: 4 p
+- Task 9: 4 p
+- Task 10: 2 p
+- Task 10: 6 p
+  **Total 32p**
